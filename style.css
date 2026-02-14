@@ -1,0 +1,18 @@
+/* CSS BASIC SELECTOR */
+h1 {
+    color: green;
+    font-size: 40px;
+    text-align: center;
+}
+
+/* STYLE LIST ITEMS */
+li {
+    color: darkblue;
+    font-size: 20px;
+}
+
+/* BODY STYLING */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
